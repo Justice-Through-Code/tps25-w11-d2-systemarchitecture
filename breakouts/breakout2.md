@@ -5,15 +5,23 @@ Activity: Begin implementing your architectural structure in code.
 Instructions:
 
 Working individually:
+
     Create your project folder structure based on your architecture
+    
     Implement skeleton classes for core modules (API, Storage, Processor)
+    
     Create base feature class
+    
     Set up main application controller
 
 For each module, include:
+
     Class definition with docstring
+    
     init method
+    
     Key method signatures (pass for now)
+    
     Basic type hints
 
 
